@@ -1,0 +1,6 @@
+{
+  "embed_model": "nomic-embed-text",
+  "max_chars": 700,
+  "overlap_chars": 120,
+  "chunks": 8
+}

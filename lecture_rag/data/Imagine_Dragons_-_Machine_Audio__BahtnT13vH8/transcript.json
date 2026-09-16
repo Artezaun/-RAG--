@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-03-29T12:10:45",
+  "source": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=BahtnT13vH8&list=RDBahtnT13vH8&start_radio=1",
+    "title": "Imagine Dragons - Machine (Audio)",
+    "id": "BahtnT13vH8"
+  },
+  "audio_path": "C:\\Users\\vadim\\Projects\\lecture_rag\\data\\Imagine_Dragons_-_Machine_Audio__BahtnT13vH8\\audio.webm",
+  "model": "large-v3",
+  "language": "en",
+  "duration": 181.0773125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 22.16,
+      "end": 24.1,
+      "text": "Time to raise up and petition"
+    },
+    {
+      "id": 2,
+      "start": 24.1,
+      "end": 71.48,
+      "text": "On vision"
+    }
+  ]
+}

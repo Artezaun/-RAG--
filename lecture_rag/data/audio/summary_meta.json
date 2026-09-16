@@ -1,0 +1,9 @@
+{
+  "bullet_style": true,
+  "chunks_used": 4,
+  "created_at": "2026-03-25T01:30:58",
+  "keep_structure": true,
+  "length_mode": "Средне",
+  "llm_model": "qwen2.5",
+  "remove_filler": true
+}

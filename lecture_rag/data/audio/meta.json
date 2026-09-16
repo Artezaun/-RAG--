@@ -1,0 +1,8 @@
+{
+  "source": {
+    "type": "local_file",
+    "path": "C:\\Users\\vadim\\Projects\\lecture_rag\\data\\Александр_Чирцов-Развитие_взглядов_на_природу_света\\audio.webm"
+  },
+  "audio_path": "C:\\Users\\vadim\\Projects\\lecture_rag\\data\\audio\\audio.webm",
+  "created_at": "2026-06-22T20:28:01"
+}
